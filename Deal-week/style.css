@@ -1,0 +1,20 @@
+.product {
+  background-color: rgb(255, 255, 230);
+}
+.deal {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+
+  top: 16%;
+  left: 26%;
+  margin-right: 400px;
+  z-index: 1;
+}
+.item {
+  width: 800px;
+  height: 800px;
+  position: relative;
+  display: flex;
+  margin-left: 490px;
+}

@@ -1,0 +1,242 @@
+.title1 {
+  height: 10px;
+  background-color: rgb(77, 148, 255);
+}
+.top1 {
+  background-color: rgb(77, 148, 255);
+  height: 70px;
+  width: 100%;
+  margin-left: 0px;
+
+}
+.high {
+  background-color: rgb(77, 148, 255);
+  float: left;
+  margin-left: 45px;
+}
+.top-nav-bar {
+  background-color: rgb(77, 148, 255);
+  float: right;
+  padding-right: 770px;
+  padding-top: 10px;
+  font-size: 23px;
+}
+.top2 {
+  width: 92%;
+  height: 160px;
+  background-color: rgb(255, 179, 230);
+  margin-left: 50px;
+
+
+}
+.title2 {
+  padding-left: 20px;
+  padding-top: 16px;
+
+}
+.text1 {
+padding-left: 20px;
+padding-right: 16px;
+text-align: justify;
+font-size: 19px;
+}
+.top3 {
+  width: 92%;
+  height: 160px;
+  margin-left: 50px;
+}
+.title3 {
+  padding-left: 20px;
+  padding-top: 16px;
+  font-size: 22px;
+}
+.text2 {
+  padding-left: 20px;
+  padding-right: 16px;
+  text-align: justify;
+  font-size: 19px;
+}
+.commentline1 {
+  width: 92%;
+  margin-left: 50px;
+  background-color: #ffa64d;
+}
+.mid_comment {
+  margin-left: 50px;
+  margin-top: 15px;
+  padding-top: 2px;
+  height: 20px;
+  color: white;
+}
+.top4 {
+  width: 92%;
+  height: 160px;
+  margin-left: 50px;
+}
+.title4 {
+  padding-left: 20px;
+  padding-top: 16px;
+  font-size: 22px;
+}
+.text3 {
+  padding-left: 20px;
+  padding-right: 16px;
+  text-align: justify;
+  font-size: 19px;
+}
+.commentline2 {
+  width: 92%;
+  margin-left: 50px;
+  background-color: #ffa64d;
+}
+.mid_comment2 {
+  margin-left: 50px;
+  margin-top: 15px;
+  padding-top: 2px;
+  height: 20px;
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: white;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px #555;
+  font-weight: bold;
+}
+.container_top {
+  width: 92%;
+  height: 300px;
+  margin-left: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+
+}
+.js {
+  background-color: #ffe6ff;
+  height: 250px;
+  width: 280px;
+  margin-top: 18px;
+}
+#js {
+  font-size: 26px;
+  text-shadow: 1px 1px 1px #155;
+  font-weight: bold;
+  padding-top: 65px;
+  padding-left: 38px;
+}
+#art23 {
+  text-shadow: 1px 1px 1px #55;
+  font-weight: bold;
+  padding-top: 55px;
+  padding-left: 55px;
+}
+
+.Cplus {
+  background-color: #ffe6ff;
+  height: 250px;
+  width: 280px;
+}
+#Cp {
+  font-size: 26px;
+  text-shadow: 1px 1px 1px #155;
+  font-weight: bold;
+  padding-top: 65px;
+  padding-left: 72px;
+}
+#art12 {
+  text-shadow: 1px 1px 1px #55;
+  font-weight: bold;
+  padding-top: 55px;
+  padding-left: 55px;
+}
+
+.SwObj {
+  background-color: #ffe6ff;
+  height: 250px;
+  width: 280px;
+}
+#swift {
+  font-size: 26px;
+  text-shadow: 1px 1px 1px #155;
+  font-weight: bold;
+  padding-top: 65px;
+  padding-left: 40px;
+}
+#art34 {
+  text-shadow: 1px 1px 1px #55;
+  font-weight: bold;
+  padding-top: 55px;
+  padding-left: 55px;
+}
+
+
+
+.container_bottom {
+  width: 92%;
+  height: 300px;
+  margin-left: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+
+}
+.data {
+  background-color: #ffe6ff;
+  height: 250px;
+  width: 280px;
+  margin-top: 18px;
+}
+#database {
+  font-size: 26px;
+  text-shadow: 1px 1px 1px #155;
+  font-weight: bold;
+  padding-top: 65px;
+  padding-left: 38px;
+}
+#art15 {
+  text-shadow: 1px 1px 1px #55;
+  font-weight: bold;
+  padding-top: 55px;
+  padding-left: 55px;
+}
+
+.Python {
+  background-color: #ffe6ff;
+  height: 250px;
+  width: 280px;
+}
+#pyth {
+  font-size: 26px;
+  text-shadow: 1px 1px 1px #155;
+  font-weight: bold;
+  padding-top: 65px;
+  padding-left: 72px;
+}
+#art33 {
+  text-shadow: 1px 1px 1px #55;
+  font-weight: bold;
+  padding-top: 55px;
+  padding-left: 55px;
+}
+
+.VB {
+  background-color: #ffe6ff;
+  height: 250px;
+  width: 280px;
+}
+#Vbnet {
+  font-size: 26px;
+  text-shadow: 1px 1px 1px #155;
+  font-weight: bold;
+  padding-top: 65px;
+  padding-left: 40px;
+}
+#art5 {
+  text-shadow: 1px 1px 1px #55;
+  font-weight: bold;
+  padding-top: 55px;
+  padding-left: 55px;
+}
